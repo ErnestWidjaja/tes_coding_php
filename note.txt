@@ -1,0 +1,5 @@
+admin@gmail.com
+pass admin123
+
+user@gmail.com
+pass user12345
